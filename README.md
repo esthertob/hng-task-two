@@ -84,10 +84,10 @@ Delete a Person by ID or Name
 - Additional fields can be included in requests and responses based on requirements.
 
 ## Setup and Deployment
-- Clone the repository: git clone https://github.com/remy01gh/hng-stageTwo
+- Clone the repository: git clone https://github.com/esthertob/hng-task-two
 - Install dependencies: npm install
 - Configure your MongoDB connection in the code.
 - Start the server: npm start
-- The API will be available at https://remy-tasktwo-hng.onrender.com/
+- The API will be available at https://oluwatobi-tasktwo-hng.onrender.com/
 
 For deployment, refer to the deployment documentation of your hosting platform.
